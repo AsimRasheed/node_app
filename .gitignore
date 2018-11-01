@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# folder for keeping error shots
+/errorShots
+
+/.vscode
